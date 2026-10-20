@@ -1,0 +1,14 @@
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
