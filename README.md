@@ -19,3 +19,19 @@ Repository containing R Programming laboratory experiments, project-based learni
 - **`LAB7/`**: Customer Segmentation Analysis
   - `R_Lab_7_Customer_Segmentation.ipynb`, `online_retail_cleaned-1.csv`, `Srishti23102C0014r_7.docx`
 - **`Assignment8_R_Programming_NYC_Taxi_Big_Data.ipynb`**: NYC Taxi Big Data Analysis Notebook
+
+---
+
+## 📅 Weekly Lab Works
+
+- **`ProgramR_Week2.R`**: Week 2 Lab - Vector operations & arithmetic
+- **`ProgramR_Week3.R`**: Week 3 Lab - Advanced operators, integer division & vectors
+- **`ProgramR_Week4.ipynb`**: Week 4 Laboratory Notebook
+- **`ProgramR_Week5.ipynb`**: Week 5 Laboratory Notebook
+- **`ProgramR_Week6.ipynb`**: Week 6 Laboratory Notebook
+- **`ProgramR_Week7.ipynb`**: Week 7 Laboratory Notebook
+- **`ProgramR_Week8.ipynb`**: Week 8 Laboratory Notebook
+- **`ProgramR_Week9.ipynb`**: Week 9 Laboratory Notebook
+- **`ProgramR_Week10.ipynb`**: Week 10 Laboratory Notebook
+- **`ProgramR_Week11.ipynb`**: Week 11 Laboratory Notebook
+- **`ProgramR_Week12.ipynb`**: Week 12 Laboratory Notebook
